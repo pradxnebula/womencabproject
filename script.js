@@ -22,7 +22,7 @@ function girlHide() {
 }
 setInterval(() => {
   document.querySelector('.loader-bg').style.display = 'none';
-}, 600);
+}, 8000);
 girlHide()
 showGirlImage();
 
